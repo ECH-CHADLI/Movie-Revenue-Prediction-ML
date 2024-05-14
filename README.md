@@ -1,8 +1,8 @@
 ### Team Members:
 
-1.  John Doe
-2.  Jane Smith
-3.  Alex Johnson
+1.  Brika Meryeme
+2.  Ait Benaddi Yassine
+3.  Ech-chadli Hamza
 
 ### Project Overview
 
